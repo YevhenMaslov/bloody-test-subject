@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Bloody-test-subject
+site_url: https://YevhenMaslov.github.io
+
+nav:
+- Intro: index.md
